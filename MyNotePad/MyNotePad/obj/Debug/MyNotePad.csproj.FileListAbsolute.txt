@@ -1,0 +1,10 @@
+C:\Users\yevke\Source\Repos\C-Practice\MyNotePad\MyNotePad\bin\Debug\MyNotePad.exe.config
+C:\Users\yevke\Source\Repos\C-Practice\MyNotePad\MyNotePad\bin\Debug\MyNotePad.exe
+C:\Users\yevke\Source\Repos\C-Practice\MyNotePad\MyNotePad\bin\Debug\MyNotePad.pdb
+C:\Users\yevke\Source\Repos\C-Practice\MyNotePad\MyNotePad\obj\Debug\MyNotePad.csprojAssemblyReference.cache
+C:\Users\yevke\Source\Repos\C-Practice\MyNotePad\MyNotePad\obj\Debug\MyNotePad.Form1.resources
+C:\Users\yevke\Source\Repos\C-Practice\MyNotePad\MyNotePad\obj\Debug\MyNotePad.Properties.Resources.resources
+C:\Users\yevke\Source\Repos\C-Practice\MyNotePad\MyNotePad\obj\Debug\MyNotePad.csproj.GenerateResource.cache
+C:\Users\yevke\Source\Repos\C-Practice\MyNotePad\MyNotePad\obj\Debug\MyNotePad.csproj.CoreCompileInputs.cache
+C:\Users\yevke\Source\Repos\C-Practice\MyNotePad\MyNotePad\obj\Debug\MyNotePad.exe
+C:\Users\yevke\Source\Repos\C-Practice\MyNotePad\MyNotePad\obj\Debug\MyNotePad.pdb
